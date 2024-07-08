@@ -1,0 +1,16 @@
+#head1{
+    color:#e3fd;
+}
+#head2{
+    text-align:right;
+}
+#para1{
+    color:blue;
+    font-size:x-large;
+    font-style: italic;
+}
+#para2{
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: right;
+}

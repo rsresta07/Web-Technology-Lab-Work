@@ -1,0 +1,37 @@
+#outerDiv{
+    width: 648px;
+    height: 452px;
+    border: 1px solid green;
+}
+.innerDiv{
+    float: left;
+    width: 160px;
+    height: 180px;
+    margin: 23px;
+    border: 1px solid green;   
+    text-align: center;
+    vertical-align:middle;
+}
+#bk{
+    background-image: url("nightvision.jpg");
+    background-attachment:fixed;
+}
+p{
+    margin-top: 40%;
+}
+#blue{
+    background: rgb(86, 123, 190);
+}
+#orange{
+    background: rgb(249, 120, 0);
+}
+#yellow{
+    background: rgb(255, 194, 53);
+}
+#headin{
+    text-align: center;
+    text-decoration:underline ;
+}
+#para{
+    text-align: left;
+}

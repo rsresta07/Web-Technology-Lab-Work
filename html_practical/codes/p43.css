@@ -1,0 +1,16 @@
+h3,tr{
+    text-align: center;
+}
+caption{
+    text-decoration:double;
+
+}
+table{
+    width: 500px;
+    height: 500px;
+    border: 2px solid black;
+}
+td{
+    border: 2px solid black;
+    font-size: xx-large;
+}

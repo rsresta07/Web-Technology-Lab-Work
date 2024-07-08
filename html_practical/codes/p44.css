@@ -1,0 +1,19 @@
+div{
+    text-align: center;
+    border: 2px solid black;
+}
+h3{
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+#p1{
+    color: grey;
+    letter-spacing: 3px;
+}
+#p2{
+    direction: rtl;
+    text-indent: 250px;
+}
+#p3{
+    text-shadow: 3px 2px grey;
+}

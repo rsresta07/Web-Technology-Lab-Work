@@ -1,0 +1,29 @@
+*{
+    font-family:cursive;
+    /* color: white;
+    background: #000; */
+}
+h3{
+    text-decoration:overline;
+}
+.common{
+    border: 4px dotted black;
+}
+#in{
+    padding: 3px;
+    border-radius: 20%;
+    border: 3px solid black;
+}
+#outerDiv p{
+    font-size: xx-large;
+}
+#outerDiv>p{
+    text-decoration: underline;
+}
+#outerDiv+p{
+    background: grey;
+}
+#outerDiv~p{
+    font-family:monospace;
+    font-size: x-large;
+}

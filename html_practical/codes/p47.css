@@ -1,0 +1,34 @@
+*{
+    margin: 6px;
+}
+p,h1{
+    text-align: center;
+}
+.common{
+    width: 600px;
+    border: 1px solid green;   
+}
+#mid{
+    height: 300px;
+}
+.inner{
+    float: left;
+    width: 286px;
+    height: 285px;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+
+}
+#blue{
+    background: rgb(61, 122, 183);
+}
+#logo{
+    margin-top: 50%;
+}
+.main{
+    width: 615px;
+    border: 1px solid green;
+}
